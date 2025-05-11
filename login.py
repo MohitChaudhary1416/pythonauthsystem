@@ -5,7 +5,7 @@ def login(db, username, password):
         return
  
     if password == user[1]:
-        print("login success")
+        print("login successfully")
     else:
         print("Invalid password")
    
