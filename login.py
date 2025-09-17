@@ -10,4 +10,3 @@ def login(db, username, password):
         print("Invalid password")
    
     return
- 
