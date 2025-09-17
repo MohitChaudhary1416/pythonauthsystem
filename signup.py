@@ -5,5 +5,5 @@ def signup(db, username, password):
         return
     
     db.add_user(username, password)
-    print("Signup Sucessfull")
+    print("Signup Sucessfully")
 
